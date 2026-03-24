@@ -14,7 +14,7 @@ If you do not have python3 or anaconda in your computer, you need to install pyt
 
 #### Anaconda install (option 1)
 
-Documentation on installing conda for your operating system is located [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) or directly download [here](https://www.anaconda.com/download/success?reg=skipped). Anaconda should come with all of the required packages.
+Documentation on installing conda for your operating system is located [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html). You can skip registration and download [here](https://www.anaconda.com/download/success?reg=skipped). Anaconda should come with all of the required packages.
 
 #### Python and Jupyter install (option 2)
 
@@ -26,14 +26,14 @@ Documentation on installing conda for your operating system is located [here](ht
 
 #### Required modules installation
 
-To complete our lab, you will need Jupyter Notebooks, NumPi, SciPy, Matplotolib, and Pandas. You can verify whether these packages are installed in your computer by running the following command in your terminal or command prompt (first one for anaconda, second one for python):
+To complete our lab, you will need Jupyter Lab (or Jupyter Notebook), NumPi, SciPy, Matplotolib, and Pandas. You can verify whether these packages are installed in your computer by running the following command in your terminal or command prompt (first one for anaconda, second one for python):
 
 - conda list
 
 - pip list
 
 If any of these packages are not installed on your system, please install them. You can find instructions to install them online based on your operating system (Windows, macOS, or Linux).
-In general this code should install all the packages you needed in python3:
+In general this code should install all the packages you need in python3:
 
 - pip3 install jupyter matplotlib numpy scipy pandas
 
@@ -49,11 +49,19 @@ or you can use them one by one:
 
 #### Success Check
 
-Once you have successfully gotten Jupyter Notebooks installed, open it using anaconda graphical user interface (GUI) or from terminal/command prompt by typing:
+Once you have successfully gotten Jupyter Lab installed, open it using anaconda graphical user interface (GUI) or from terminal/command prompt by typing:
 
 - jupyter notebook
 
-It will open the Jupyter Notebook and then you need to click on the folder where you saved the files you downlaoded from email.
+It will open the Jupyter Notebook and then you need to click on the folder where you saved the .ipynb files you downloaded from email.
+
+If you're using anaconda, you may need to do the following after install:
+
+Create an environment (this one will be named jupyter) with the latest version of python (right now, v3.12). Activate the env, install jupyter, and open with jupyter lab.
+- conda create -n jupyter python=3.12
+- conda activate jupyter
+- conda install notebook jupyterlab
+- jupyter lab
 
 Now, try running the test file named 'Test Functionality'. If it runs without error, you are all set for our next lab.
 If you run into issues please feel free to contact me: aosmond@email.sc.edu
