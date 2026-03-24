@@ -8,7 +8,7 @@ This lab is aimed to teach you both basic programming in python as well as see h
 
 ## Getting Working Python and Jupyter Notebooks
 
-#Step1:
+# Step1:
 
 - If you do not have python3 or anaconda in your computer, you need to install python3 or anaconda. If you already have either python3 or anaconda with Jupyter Notebook you can jump to #Step 2.
 
@@ -22,7 +22,7 @@ Anaconda should come with all of the required packages.
 1.Install python latest version [here](https://www.python.org/downloads/)
 2.Install Jupyter Notebooks is located [here](https://jupyter.org/install)
 
-#Step2:
+# Step2:
 
 ### Required modules installation
 
