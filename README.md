@@ -1,4 +1,4 @@
-## PHYS 511 Nuclear Physics Data AnaLysis Lab
+## PHYS 511 Nuclear Physics Data Analysis Lab
 
 Our lab's documentation will be available on here https://github.com/kneupane1/PHYS_511_2026/tree/master. You can download or clone files from this page. However I will also send you emails before every labs with the required files and tasks to do. Below is a guide on how to properly prepare yourself and your computer for our labs.
 
