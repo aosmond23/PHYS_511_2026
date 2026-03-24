@@ -20,6 +20,7 @@ Anaconda should come with all of the required packages.
 #### Python install
 
 1.Install python latest version [here](https://www.python.org/downloads/)
+
 2.Install Jupyter Notebooks is located [here](https://jupyter.org/install)
 
 ### Step 2:
