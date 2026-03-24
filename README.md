@@ -1,6 +1,6 @@
 ## PHYS 511 Nuclear Physics Data Analysis Lab
 
-Our lab's documentation will be available on here https://github.com/aosmond23/PHYS_511_2026/tree/master. You can download or clone files from this page. However I will also send you emails before every labs with the required files and tasks to do. Below is a guide on how to properly prepare yourself and your computer for our labs.
+Our lab's documentation will be available on here https://github.com/aosmond23/PHYS_511_2026/tree/master. You can download or clone files from this page. However I will also send you emails before every lab with the required files and tasks to do. Below is a guide on how to properly prepare yourself and your computer for our labs.
 
 ### Purpose Behind Coding Lab
 
@@ -15,7 +15,7 @@ This lab is aimed to teach you both basic programming in python as well as see h
 ### Anaconda install
 
 Documentation on installing conda for your operating system is located [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) or directly [here](https://www.anaconda.com/products/distribution)
-Anaconda should comes with all of the required packages.
+Anaconda should come with all of the required packages.
 
 ### Python install
 
