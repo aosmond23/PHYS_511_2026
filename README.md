@@ -10,7 +10,7 @@ This lab is aimed to teach you both basic programming in python as well as see h
 
 ### Step 1:
 
-- If you do not have python3 or anaconda in your computer, you need to install python3 or anaconda. If you already have either python3 or anaconda with Jupyter Notebook you can jump to #Step 2.
+If you do not have python3 or anaconda in your computer, you need to install python3 or anaconda. If you already have either python3 or anaconda with Jupyter Notebook you can jump to Step 2.
 
 #### Anaconda install
 
@@ -19,9 +19,9 @@ Anaconda should come with all of the required packages.
 
 #### Python install
 
-1.Install python latest version [here](https://www.python.org/downloads/)
+1. Install python latest version [here](https://www.python.org/downloads/)
 
-2.Install Jupyter Notebooks is located [here](https://jupyter.org/install)
+2. Install Jupyter Notebooks is located [here](https://jupyter.org/install)
 
 ### Step 2:
 
@@ -29,20 +29,22 @@ Anaconda should come with all of the required packages.
 
 To complete our lab, you will need Jupyter Notebooks, NumPi, SciPy, Matplotolib, and Pandas. You can verify whether these packages are installed in your computer by running the following command in your terminal or command prompt (first one for anaconda, second one for python):
 
-conda list
+- conda list
 
-pip list
+- pip list
 
 If any of these packages are not installed on your system, please install them. You can find instructions to install them online based on your operating system (Windows, macOS, or Linux).
 In general this code should install all the packages you needed in python3:
-pip3 install jupyter matplotlib numpy scipy pandas
+
+- pip3 install jupyter matplotlib numpy scipy pandas
 
 or you can use them one by one:
-pip3 install jupyter
 
-pip3 install matplotlib
+- pip3 install jupyter
 
-and so on ..
+- pip3 install matplotlib
+
+- and so on ..
 
 ### Step 3:
 
@@ -50,7 +52,7 @@ and so on ..
 
 Once you have successfully gotten Jupyter Notebooks installed, open it using anaconda graphical user interface (GUI) or from terminal/command prompt by typing:
 
-jupyter notebook
+- jupyter notebook
 
 It will open the Jupyter Notebook and then you need to click on the folder where you saved the files you downlaoded from email.
 
