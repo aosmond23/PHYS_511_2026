@@ -54,4 +54,4 @@ jupyter notebook
 It will open the Jupyter Notebook and then you need to click on the folder where you saved the files you downlaoded from email.
 
 Now, try running the test file named 'Test Functionality'. If it runs without error, you are all set for our next lab.
-If you run into issues please feel free to contact me: kneupane@email.sc.edu
+If you run into issues please feel free to contact me: aosmond@email.sc.edu
