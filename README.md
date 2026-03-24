@@ -14,7 +14,8 @@ If you do not have python3 or anaconda in your computer, you need to install pyt
 
 #### Anaconda install
 
-Documentation on installing conda for your operating system is located [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) or directly [here](https://www.anaconda.com/products/distribution)
+Documentation on installing conda for your operating system is located [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) or directly [here](https://www.anaconda.com/download/success?reg=skipped)
+
 Anaconda should come with all of the required packages.
 
 #### Python install
