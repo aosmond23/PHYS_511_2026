@@ -6,9 +6,9 @@ Our lab's documentation will be available on here https://github.com/aosmond23/P
 
 This lab is aimed to teach you both basic programming in python as well as see how it can be applied in a nuclear physics setting. Given the vast amounts of data that we deal with in this field, effective analysis often requires programming skills. Although languages such as C++, Java, and Fortran are commonly used, Python is increasingly being recognized as a powerful tool for data analysis. Moreover, the use of Jupyter Notebooks provides an efficient platform for obtaining quick results and feedback on your code.
 
-## Getting Working Python and Jupyter Notebooks
+## How to install Python and Jupyter Notebooks
 
-### Step1:
+### Step 1:
 
 - If you do not have python3 or anaconda in your computer, you need to install python3 or anaconda. If you already have either python3 or anaconda with Jupyter Notebook you can jump to #Step 2.
 
@@ -22,7 +22,7 @@ Anaconda should come with all of the required packages.
 1.Install python latest version [here](https://www.python.org/downloads/)
 2.Install Jupyter Notebooks is located [here](https://jupyter.org/install)
 
-### Step2:
+### Step 2:
 
 #### Required modules installation
 
