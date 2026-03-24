@@ -1,6 +1,6 @@
 ## PHYS 511 Nuclear Physics Data AnaLysis Lab
 
-Our lab's documentation will be available on here https://github.com/kneupane1/PHYS_511_2025/tree/master. You can download or clone files from this page. However I will also send you emails before every labs with the required files and tasks to do. Below is a guide on how to properly prepare yourself and your computer for our labs.
+Our lab's documentation will be available on here https://github.com/kneupane1/PHYS_511_2026/tree/master. You can download or clone files from this page. However I will also send you emails before every labs with the required files and tasks to do. Below is a guide on how to properly prepare yourself and your computer for our labs.
 
 ### Purpose Behind Coding Lab
 
@@ -29,6 +29,7 @@ Anaconda should comes with all of the required packages.
 To complete our lab, you will need Jupyter Notebooks, NumPi, SciPy, Matplotolib, and Pandas. You can verify whether these packages are installed in your computer by running the following command in your terminal or command prompt (first one for anaconda, second one for python):
 
 conda list
+
 pip list
 
 If any of these packages are not installed on your system, please install them. You can find instructions to install them online based on your operating system (Windows, macOS, or Linux).
@@ -37,7 +38,9 @@ pip3 install jupyter matplotlib numpy scipy pandas
 
 or you can use them one by one:
 pip3 install jupyter
+
 pip3 install matplotlib
+
 and so on ..
 
 #Step 3:
