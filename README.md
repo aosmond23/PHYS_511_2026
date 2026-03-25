@@ -51,17 +51,9 @@ or you can use them one by one:
 
 Once you have successfully gotten Jupyter Lab installed, open it using anaconda graphical user interface (GUI) or from terminal/command prompt by typing:
 
-- jupyter notebook
-
-It will open the Jupyter Notebook and then you need to click on the folder where you saved the .ipynb files you downloaded from email.
-
-If you're using anaconda, you may need to do the following after install:
-
-Create an environment (this one will be named jupyter) with the latest version of python (right now, v3.12). Activate the env, install jupyter, and open with jupyter lab.
-- conda create -n jupyter python=3.12
-- conda activate jupyter
-- conda install notebook jupyterlab
 - jupyter lab
+
+It will open the Jupyter Lab and then you need to click on the folder where you saved the .ipynb files you downloaded from email.
 
 Now, try running the test file named 'Test Functionality'. If it runs without error, you are all set for our next lab.
 If you run into issues please feel free to contact me: aosmond@email.sc.edu
